@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Liljam Dark",
+	"name": "Limerlicious Dark",
 	"editor.lineHeight": 1.5,
 	"colors": {
 		"activityBar.background": "#303030",

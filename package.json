@@ -1,6 +1,6 @@
 {
-  "name": "limer.vscode.themes.limericious",
-  "displayName": "Limericious",
+  "name": "limer.vscode.themes.limerlicious",
+  "displayName": "Limerlicious",
   "description": "Themes by Limer",
   "version": "0.0.2",
   "engines": {
@@ -12,10 +12,10 @@
   "contributes": {
     "themes": [
       {
-        "id": "limericious Dark",
-        "label": "Limericious Dark",
+        "id": "limerlicious Dark",
+        "label": "Limerlicious Dark",
         "uiTheme": "vs-dark",
-        "path": "/themes/limericious_dark.json"
+        "path": "/themes/limerlicious_dark.json"
       }
     ]
   }
