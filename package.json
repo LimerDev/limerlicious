@@ -1,0 +1,22 @@
+{
+  "name": "limer.vscode.themes.limericious",
+  "displayName": "Limericious",
+  "description": "Themes by Limer",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "id": "limericious Dark",
+        "label": "Limericious Dark",
+        "uiTheme": "vs-dark",
+        "path": "/themes/limericious_dark.json"
+      }
+    ]
+  }
+}
