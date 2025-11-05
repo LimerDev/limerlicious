@@ -1,4 +1,4 @@
-# Limericious
+# Limerlicious
 Visual Studio Code theme
 
 ## Recommended Icon Set
