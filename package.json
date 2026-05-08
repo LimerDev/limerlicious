@@ -22,6 +22,12 @@
         "label": "Limerlicious Dark",
         "uiTheme": "vs-dark",
         "path": "/themes/limerlicious_dark.json"
+      },
+      {
+        "id": "limerlicious Dark Neon",
+        "label": "Limerlicious Dark Neon",
+        "uiTheme": "vs-dark",
+        "path": "/themes/limerlicious_dark_neon.json"
       }
     ]
   }
