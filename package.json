@@ -18,16 +18,40 @@
   "contributes": {
     "themes": [
       {
-        "id": "limerlicious Dark",
-        "label": "Limerlicious Dark",
+        "id": "limerlicious Classic",
+        "label": "Limerlicious Classic",
         "uiTheme": "vs-dark",
-        "path": "/themes/limerlicious_dark.json"
+        "path": "/themes/limerlicious_classic.json"
       },
       {
-        "id": "limerlicious Dark Neon",
-        "label": "Limerlicious Dark Neon",
+        "id": "limerlicious Classic Soft",
+        "label": "Limerlicious Classic Soft",
         "uiTheme": "vs-dark",
-        "path": "/themes/limerlicious_dark_neon.json"
+        "path": "/themes/limerlicious_classic_soft.json"
+      },
+      {
+        "id": "limerlicious Classic Light",
+        "label": "Limerlicious Classic Light",
+        "uiTheme": "vs",
+        "path": "/themes/limerlicious_classic_light.json"
+      },
+      {
+        "id": "limerlicious Modern",
+        "label": "Limerlicious Modern",
+        "uiTheme": "vs-dark",
+        "path": "/themes/limerlicious_modern.json"
+      },
+      {
+        "id": "limerlicious Modern Soft",
+        "label": "Limerlicious Modern Soft",
+        "uiTheme": "vs-dark",
+        "path": "/themes/limerlicious_modern_soft.json"
+      },
+      {
+        "id": "limerlicious Modern Light",
+        "label": "Limerlicious Modern Light",
+        "uiTheme": "vs",
+        "path": "/themes/limerlicious_modern_light.json"
       }
     ]
   }
