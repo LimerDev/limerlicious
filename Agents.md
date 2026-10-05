@@ -78,7 +78,7 @@ There is currently **no generator script in the repo**; the derived files were p
 | Go import paths | `#707070` (shared with Classic) |
 
 - Fuzzy-match highlights in the command palette, lists and suggest widget (`list.highlightForeground`, `list.focusHighlightForeground`, `editorSuggestWidget.*HighlightForeground`) are **teal `#78b3a6`, not orange**.
-- Pop-ups (quick input, suggest, hover, menus, notifications, widgets) are lifted so they don't blend in: background `#383432`, border `#5a524c`, `widget.shadow` `#00000099`. Classic has **not** had this treatment yet.
+- Pop-ups (quick input, suggest, hover, menus, notifications, widgets) are lifted so they don't blend in: background `#383432`, border `#5a524c`, `widget.shadow` `#00000099`. Classic has the same treatment in neutral gray: `#383838` / border `#555555` (Soft `#434343` / `#606060`; Light keeps white pop-ups with a darker `#b8b1a7` border, no shadow).
 - UI also has Gruvbox-colored bracket pairs, git decorations and diff gutters.
 
 ## Technical gotchas
